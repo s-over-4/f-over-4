@@ -1,0 +1,49 @@
+{"poster": "[c]", "quote": "test", "date": "2022-03-06 14:13:25.724019"}
+{"poster": "", "quote": "test", "date": "2022-03-06 14:14:14.849078"}
+{"poster": "", "quote": "test", "date": "2022-03-06 14:14:41.130974"}
+{"poster": "c", "quote": "test", "date": "2022-03-06 14:16:05.959815"}
+{"poster": "c", "quote": "test", "date": "2022-03-06 14:16:17.686979"}
+{"poster": "c", "quote": "test", "date": "2022-03-06 14:16:27.072489"}
+{"poster": "c+1", "quote": "test", "date": "2022-03-06 14:17:44.019887"}
+{"poster": "c+1", "quote": "test", "date": "2022-03-06 14:27:01.678944"}
+{"poster": "c+1", "quote": "test1", "date": "2022-03-06 14:29:47.685667"}
+{"poster": "c", "quote": "asdf", "date": "2022-03-06 14:39:21.628845"}
+{"poster": "c+1", "quote": "fuck i hate this", "date": "2022-03-06 14:41:44.130197"}
+{"poster": "c+1", "quote": "I FUCKING DID IT", "date": "2022-03-06 15:10:43.648048"}
+{"poster": "c+1", "quote": "Ok I need to go to bed", "date": "2022-03-06 15:14:06.232651"}
+{"poster": "c+1", "quote": "test...", "date": "2022-03-06 15:15:48.130742"}
+{"poster": "totallyhuman", "quote": "peepee poopoo", "date": "2022-03-06 20:30:13.043453"}
+{"poster": "snowy", "quote": "life is like chasing the west star", "date": "2022-03-09 00:45:11.761786"}
+{"poster": "wes", "quote": "ytyi-[op", "date": "2022-03-10 17:51:27.513448"}
+{"poster": "wes", "quote": "^Y^", "date": "2022-03-10 17:59:21.709121"}
+{"poster": "mitzo", "quote": "I thought it was sexual~", "date": "2022-03-10 18:05:04.563017"}
+{"poster": "technetium", "quote": "!quote 'I thought it was sexual~' mitzo", "date": "2022-03-10 18:06:45.913196"}
+{"poster": "get", "quote": "help", "date": "2022-03-11 17:41:11.354722"}
+{"poster": "snowy", "quote": "you will die", "date": "2022-03-11 17:41:53.315572"}
+{"poster": "quoted", "quote": "quote", "date": "2022-03-11 17:50:26.437224"}
+{"poster": "mitzo", "quote": "I love danish", "date": "2022-03-11 17:50:44.671504"}
+{"poster": "mitzo", "quote": "ratio", "date": "2022-03-11 17:52:35.098701"}
+{"poster": "capitol", "quote": "test", "date": "2022-03-11 17:57:57.816079"}
+{"poster": "capitol", "quote": "test", "date": "2022-03-11 18:02:18.171950"}
+{"poster": "capitol", "quote": "test", "date": "2022-03-11 18:03:00.544878"}
+{"poster": "at", "quote": "test", "date": "2022-03-11 18:04:29.381925"}
+{"poster": "test", "quote": "test", "date": "2022-03-11 18:05:53.146393"}
+{"poster": "e", "quote": "e", "date": "2022-03-11 18:08:57.056551"}
+{"poster": "etrhwra", "quote": "etrhwra", "date": "2022-03-11 18:09:12.714990"}
+{"poster": "asdf", "quote": "asdf", "date": "2022-03-11 18:10:06.406177"}
+{"poster": "@asdf", "quote": "asdf", "date": "2022-03-11 18:10:18.654027"}
+{"poster": "asdf", "quote": "asdf", "date": "2022-03-11 18:11:54.410193"}
+{"poster": "asdf", "quote": "asdf", "date": "2022-03-11 18:11:57.920110"}
+{"poster": "@", "quote": "@@", "date": "2022-03-11 18:18:53.611842"}
+{"poster": "c+1", "quote": "dunununununununu WATMAN", "date": "2022-03-11 18:30:55.505437"}
+{"poster": "test", "quote": "'", "date": "2022-03-11 18:36:53.334075"}
+{"poster": "snowy", "quote": "my current one is a little small", "date": "2022-03-11 20:57:24.334019"}
+{"poster": "chumbawumba", "quote": "for some girls it's never enough", "date": "2022-03-11 21:53:57.497808"}
+{"poster": "xyzzy", "quote": "..Now I wonder what Euphoria's policies about cyber sex are.", "date": "2022-03-12 18:57:13.369586"}
+{"poster": "supernerd", "quote": "(to the tune of that one Nickelodeon jingle) nec nec nec nec nec nec nec nec NECROPHILIAAAA!", "date": "2022-03-12 20:35:42.118900"}
+{"poster": "c+1", "quote": "its faster to open a new tab than to reload", "date": "2022-03-14 00:18:40.829542"}
+{"poster": "its faster to open a new tab than to reload c+1", "quote": "remove", "date": "2022-03-14 00:18:58.202027"}
+{"poster": "birb", "quote": "*new target located*", "date": "2022-03-15 11:37:43.326726"}
+{"poster": "birb", "quote": "RIP Birb, 15 Mar 2022 - 15 Mar 2022", "date": "2022-03-15 11:38:11.711149"}
+{"poster": "wes", "quote": "dnag", "date": "2022-03-16 12:05:01.117303"}
+{"poster": "snowy", "quote": "no no guys i dont think you understand, im straight i just happen to really love a boy", "date": "2022-03-16 16:14:21.006912"}
